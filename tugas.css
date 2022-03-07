@@ -1,0 +1,32 @@
+
+table {
+    
+    color:black;
+    
+}
+header {
+    display: flex;
+    
+    justify-content: space-around;
+    margin-bottom: 1%;
+}
+.atas{
+  
+    width: fit-content;
+   
+}
+.judul {
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+}
+main {
+    display: flex;
+    
+    justify-content: space-around;
+}
+.bawah {
+    
+    width: fit-content;
+  
+}
