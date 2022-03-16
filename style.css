@@ -1,0 +1,20 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.kolom-num {
+    display: flex;
+    
+}
+.num {
+    margin: 4.3%;
+}
+td {
+    margin: 2%;
+}
+main {
+    display: flex;
+    justify-content: space-around;
+}
